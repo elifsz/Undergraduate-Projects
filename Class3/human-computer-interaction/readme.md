@@ -11,3 +11,6 @@ Hurry up Ustam : https://hurryupustam.brizy.site/
 - Developed a prototype of the software's user interface, incorporating feedback from usability testing and adhering to user-centered design principles.
 - Identified and addressed risky tasks during the design and testing phases, prioritizing user safety and satisfaction.
 - The project exemplified the importance of user research, interface design, and usability testing in creating a user-friendly and efficient software application.
+
+#### home page
+![image](https://github.com/elifsz/Undergraduate-Projects/assets/44908865/702ca407-f70e-4331-a58c-d15455855cd0)
